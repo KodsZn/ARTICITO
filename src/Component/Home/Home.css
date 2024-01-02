@@ -1,0 +1,88 @@
+.Welcome{
+    background-color: #ddd2ba;
+    color:#433821 ;
+    width: 100%;
+    height: auto;
+    flex-direction: row ;
+    display: flex;
+    align-items: stretch;
+    justify-content:space-between;
+    text-decoration: none;
+
+}
+.Masterpieces{
+    background-color: #ddd2ba;
+    padding: 10px;
+    padding-top: 20px;
+    text-decoration: none;
+
+
+
+}
+.aboutm{
+    border: solid #304a5c;
+    border-radius: 25px; 
+    background-color: #304a5c;
+    color: #f9f9f5;
+    padding: 10px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    font-family: Renitah;
+    text-decoration: none;
+
+
+
+}
+
+.texth{
+    width: 50%;
+    font-family: Renitah;
+    
+}
+.texth>h1{
+    color: #f9f9f5;
+    width: 50%;
+    font-size: 77px;
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 29%;
+}
+.texth>h6{
+    width: 60%;
+    text-align: left;
+    margin-left: 29%;
+    margin-top: 10%;
+
+}
+.imgwl{
+    width: 50%;
+    height: 100%px;
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.commencer{ 
+    margin-left: 29%;
+    font-family: Renitah;
+    width: 200px;
+    background-color: #304a5c;
+    text-decoration: none;
+    color: #bbc4c2;
+}
+.commencer:hover{
+    background-color: #bbc4c2;
+    color:#304a5c ;
+
+}
+.footer{
+    background-color: #304a5c;
+    color: #ddd2ba;
+    border: 2px solid #304a5c ;
+    padding: 30px;
+}
+.footer>h3,h5{
+    text-align: center;
+}

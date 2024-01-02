@@ -1,0 +1,146 @@
+
+body{
+    background-color: #ddd2ba;
+
+}
+.bodyProfile {
+    background-color: #ddd2ba;
+
+
+  }
+  
+  /* Profile container */
+  .profile {
+    margin: 20px 0;
+    font-family:Renitah;
+    background-color: #ddd2ba;
+
+
+  }
+  
+  /* Profile sidebar */
+  .profile-sidebar {
+    padding: 20px 0 10px 0;
+    border:3px solid #433821;
+
+  }
+
+.profile-userpic img {
+    float: none;
+    border: 3px solid #304a5c ;
+    margin: 0 auto;
+    margin-left: 24%;
+    width: 50%;
+    height: 50%;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    border-radius: 50% !important;
+  }
+  
+.profile-usertitle {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-usertitle-name {
+    
+    color: #433821;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+.profile-usertitle-job {
+    text-transform: uppercase;
+    color: #5b9bd1;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.profile-userbuttons {
+    text-align: center;
+    margin-top: 8px;
+}
+
+.profile-userbuttons .btn:last-child {
+    margin-right: 0px;
+}
+.btn-1{  
+    font-family: Renitah;
+    width: 150px;
+    background-color:#433821 ;
+    text-decoration: none;
+    color: #bbc4c2;
+    border: 1px solid #433821;
+}
+.btn-2{
+    background-color:#433821 ;
+    font-family: Renitah;
+    color: #bbc4c2;
+    width: 150px;
+    text-decoration: none;
+
+}
+.btn-1:hover{
+    background-color: white;
+    color:#433821 ;
+    border: 2px solid #433821;
+
+
+}
+.btn-2:hover{
+    background-color: white;
+    color:#433821 ;
+    border: 2px solid #433821;
+
+}
+.aboutusername{
+    padding-left: 10%;
+    padding-top: 10%;
+    text-decoration: none !important;
+
+}
+ /* Profile Content */
+.profile-content {
+    border: 3px solid #433821 ;
+    padding: 20px;
+    min-height: auto;
+
+}
+
+
+  
+ 
+  .profile-stat-title {
+      color: #433821;
+      font-size: 25px;
+      text-align: center;
+  }
+  .uppercase {
+      text-transform: uppercase!important;
+  }
+  
+  
+  .profile-desc-title {
+      color: #433821;
+      font-size: 20px;
+      font-weight: 600;
+
+  }
+  .profile-desc-text {
+      color: #433821;
+      font-size: 15px;
+
+
+  }
+  .margin-top-20 {
+      margin-top: 20px !important;
+  }
+
+  .profile-desc-link {
+      font-size: 17px;
+      color: #433821;
+      margin-right: 5px;
+      text-decoration: none!important;
+  }
+  
+  

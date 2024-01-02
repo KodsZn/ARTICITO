@@ -1,0 +1,19 @@
+
+.cors{
+    background-color: #ddd2ba;
+    padding: 50px;
+}
+.d-block{
+    height: 550px;
+    border: 8px solid ;
+	border-image: linear-gradient(-50deg,#ddd2ba,#433821, #ddd2ba,  #433821,  #ddd2ba, #433821,#ddd2ba) 1;
+}
+
+.caption>h5,p{
+    background-color:#ddd2ba;
+    
+    color: #433821;
+    font-size: 30px;
+    font-family:Renitah;
+
+}

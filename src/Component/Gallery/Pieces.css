@@ -1,0 +1,37 @@
+.btn-1{  
+    font-family: Renitah;
+    width: 150px;
+    background-color:#433821 ;
+    text-decoration: none;
+    color: #bbc4c2;
+    border: 1px solid #433821;
+}
+.btn-1:hover{
+    background-color: white;
+    color:#433821 ;
+    border: 2px solid #433821;
+
+
+}
+.profile {
+    margin: 20px 0;
+    font-family:Renitah;
+    background-color: #ddd2ba;
+
+
+  }
+.profile-stat-title {
+    color: #433821;
+    font-size: 25px;
+    text-align: center;
+    background-color: #ddd2ba;
+
+}
+.profile-usertitle-name {
+    background-color: #ddd2ba;
+
+    color: #433821;
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
